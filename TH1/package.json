@@ -1,0 +1,7 @@
+{
+  "name": "TH1",
+  "version": "1.0.0",
+  "dependencies": {
+    "typescript": "4.6.2"
+  }
+}
